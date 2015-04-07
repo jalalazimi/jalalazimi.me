@@ -2,8 +2,7 @@
 Jekyll source for my personal blog.  http://jalalazimi.me
 
 
-h1. License
-
+# License
 The following directories and their contents are Copyright Tom Preston-Werner. You may not reuse anything therein without my permission:
 
 * _posts/
